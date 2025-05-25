@@ -1,0 +1,30 @@
+[
+  {
+    "codigoProducto": "FER-12345",
+    "marca": "Bosch",
+    "modelo": "GSR 1000",
+    "nombre": "Taladro Percutor Bosch",
+    "categoria": "Herramientas Eléctricas",
+    "precio": [
+      {
+        "fecha": "2023-05-10",
+        "valor": 89090.99
+      }
+    ],
+    "stock": 4
+  },
+  {
+    "codigoProducto": "FER-22346",
+    "marca": "Stanley",
+    "modelo": "STAN 2000",
+    "nombre": "Martillo de Uña Stanley",
+    "categoria": "Herramientas Manuales",
+    "precio": [
+      {
+        "fecha": "2023-04-20",
+        "valor": 10990
+      }
+    ],
+    "stock": 23
+  }
+]
