@@ -11,7 +11,7 @@
         "valor": 89090.99
       }
     ],
-    "stock": 4
+    "stock": 10
   },
   {
     "codigoProducto": "FER-22346",
@@ -25,6 +25,6 @@
         "valor": 10990
       }
     ],
-    "stock": 23
+    "stock": 25
   }
 ]
